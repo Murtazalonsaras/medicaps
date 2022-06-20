@@ -1,0 +1,5 @@
+The total number of student is 120.
+In section-E
+branch-CSE
+semester-4
+course-B.Tech
